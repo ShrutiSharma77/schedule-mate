@@ -13,6 +13,9 @@ load_dotenv()
 intents = discord.Intents.default()
 intents.typing = False
 intents.presences = False
+intents.messages = True
+intents.guild_messages = True
+
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
