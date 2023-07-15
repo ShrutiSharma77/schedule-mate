@@ -1,2 +1,2 @@
 # Schedule-Mate
-A discord bot that helps you schedule taska and set reminder for them
+A discord bot that helps the user schedule tasks and set reminder for them
